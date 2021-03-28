@@ -1,0 +1,28 @@
+C:\Users\Пользователь\Desktop\курс\2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Пользователь\Desktop\курс\2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Пользователь\Desktop\курс\2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Пользователь\Desktop\курс\2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\bin\Debug\Calculator.exe
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.exe
+C:\Users\Пользователь\Desktop\курс\калькулятор UI\Calculator\obj\Debug\Calculator.pdb
